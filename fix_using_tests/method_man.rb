@@ -1,7 +1,7 @@
 require 'pry'
 
 def start_game(player1, player2)
-  return puts "Hello #{player1} & #{playar2}"
+  print "Hello #{player1} & #{playar2}"
 end
 
 def play_game(player2)
