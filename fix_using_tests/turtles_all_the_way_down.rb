@@ -15,5 +15,5 @@ def turtle_traits(turtles)
       trait
     end
   end
-  turtles.map do t
+  turtles.map { |turtle| }
 end
