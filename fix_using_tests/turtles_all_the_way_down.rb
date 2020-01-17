@@ -15,4 +15,5 @@ def turtle_traits(turtles)
       trait
     end
   end
+  turtles.map do t
 end
